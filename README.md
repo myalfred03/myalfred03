@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Yeser Alfredo Morales, an electronics engineer at the University national of Engineering in Nicaragua, Since 2017 I see the potential of ROS like all that an entrepreneur Roboticist needs to make a career in Robotics. 
+My name is Yeser Alfredo Morales, Engineer passionate about making a career in industrial IoT, as an electronic engineer I have also worked in technical support / engineering / IT.
 
 Tesis Work: [“Virtual laboratory for industrial robotics using ROS middleware and compatible tools”](http://repositorio.cnu.edu.ni/Record/RepoUNI3038). 
 
 - 📫 How to reach me: myalfredo03@ieee.org
-- 💬 Ask me about: Kinematics Robotics using KDL, Pluging of Rviz - ROS, And Computer Vision using OpenCV
+- 💬 Ask me about: Pluging of Rviz - ROS, Computer Vision using OpenCV, PLC Siemens, Backend Web, Linux, Open Source Software, Computer Network Routing.
+- ⚡ Programming Languages: C/C++, MATLAB, Python, PLC ladder, JavaScript
+- 👩‍🚀 Skills: Linux, Robotics, Computer Vision, PLC Automation, Backend Web, Data Scraping, Support Engineer Physical Network
 - 💻 Website: [myalfredo03](https://myalfredo03.wordpress.com/)
 
 <!--
